@@ -1,7 +1,11 @@
 # Invaders
 Invaders classic arcade game
 
-All image files are used in the game.
+All image files are used in the game, so all are required in a download for the game to work.
+
+controls for game:
+left and right arrows for movement
+space bar to fire one bullet from defender
 
 Tasks for game:
 - Create the defender at the bottom of the screen and allow it to be moved via key presses
